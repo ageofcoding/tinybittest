@@ -1,0 +1,22 @@
+{
+    "name": "TinyBitTest",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "Bluetooth Control_20190523": "pkg:Bluetooth Control_20190523.json"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "Bluetooth Control_20190523.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
